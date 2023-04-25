@@ -8,6 +8,7 @@ Tenho 16 anos, estudo no IFCE, curso Informática, gosto de música e basquete.
 
  print "Hello World"
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------               
 
 <div>
 <a href="https://github.com/thaynaxt">
