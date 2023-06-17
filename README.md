@@ -1,17 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=992&color=804D15&width=435&lines=Hi%2C+It's+Thay!!+;Welcome+to+my+profile." alt="Typing SVG" /></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------- 
-Nascida na cidade de Fortaleza - CE. Tem 16 anos de idade. Estudante do IFCE-Campus Fortaleza. Cursa o terceiro semestre do Técnico Integrado em Informática. Atua como atleta de basquetebol pela Seleção do IFCE (campus Fortaleza).
+Nasci na cidade de Fortaleza - CE. Tenho 16 anos de idade, estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Fortaleza, cursando o terceiro semestre do Técnico Integrado em Informática. Atuo como atleta de basquetebol pela Seleção do IFCE (campus Fortaleza). Gosto de ver série no meu tempo livre.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------               
 
 <div>
 <a href="https://github.com/thaynaxt">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaxt&layout=compact&langs_count=7&theme=darcula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaxt&layout=compact&langs_count=7&theme=midnight-purple"/>
  
  --------------------------------------------------------------------------------------------------------------------------------------------------------               
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynaxt&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynaxt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
  
   
@@ -32,7 +32,8 @@ Nascida na cidade de Fortaleza - CE. Tem 16 anos de idade. Estudante do IFCE-Cam
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![977d951f7e7e87ba767707ef316a7f4d](https://user-images.githubusercontent.com/125219765/234396974-6ac14c27-ee37-4371-a4cf-db94cc7d08be.gif)
+ 
           
