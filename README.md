@@ -1,13 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=992&color=804D15&width=435&lines=Hi%2C+It's+Thay!!+;Welcome+to+my+profile." alt="Typing SVG" /></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------- 
-Tenho 16 anos, estudo no IFCE, curso Informática, gosto de música e basquete.
-  👩🏽‍💻🏀
-
-
-01110100 01110010 01101111 01110101 01111000 01100001 
-
- print "Hello World!!"
+Nascida na cidade de Fortaleza - CE. Tem 16 anos de idade. Estudante do IFCE-Campus Fortaleza. Cursa o terceiro semestre do Técnico Integrado em Informática. Atua como atleta de basquetebol pela Seleção do IFCE (campus Fortaleza).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------               
 
