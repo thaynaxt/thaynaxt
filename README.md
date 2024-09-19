@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=992&color=804D15&width=435&lines=Hi%2C+It's+Thay!!+;Welcome+to+my+profile." alt="Typing SVG" /></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------- 
-Nasci na cidade de Fortaleza - CE. Tenho 18 anos de idade, estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Fortaleza, cursando o terceiro semestre do Técnico Integrado em Informática. Atuo como atleta de basquetebol pela Seleção do IFCE (campus Fortaleza). Gosto de ver série no meu tempo livre.
+Nasci na cidade de Fortaleza - CE. Tenho 18 anos de idade, estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Fortaleza, cursando o quinto semestre do Técnico Integrado em Informática. Atuo como atleta de basquetebol pela Seleção do IFCE (campus Fortaleza). Gosto de ver série no meu tempo livre.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------               
 
