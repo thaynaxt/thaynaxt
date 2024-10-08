@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------- 
 Nasci na cidade de Fortaleza - CE. Tenho 18 anos de idade, estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Fortaleza, cursando o sexto (e último🙌) semestre do Técnico Integrado em Informática. Atuo como atleta de basquetebol pela Seleção do IFCE (campus Fortaleza). Gosto de ver série, ler e pintar no meu tempo livre.🏀🎧📖🎨
 
---------------------------------------------------------------------------------------------------------------------------------------------------------               
+--------------------------------------------------------------------------------------------------------------------------------------------------------          
 
 <div>
 <a href="https://github.com/thaynaxt">
@@ -20,22 +20,29 @@ Nasci na cidade de Fortaleza - CE. Tenho 18 anos de idade, estudo no Instituto F
  ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thaynaxt)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayna.silva63@aluno.ifce.edu.br)
-  
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,gmail,linkedin,twitter" />
+  </a>
+</p>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
  ### Learning:
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode" alt="My Skills">
+  <a href="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,flutter,mongodb">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite, alt="My Skills">
   </a>
 </p>
  
 ### Tools:
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=replit,figma,vscode">
+    <img src="https://skillicons.dev/icons?i=replit,figma,vscode" alt="My Skills">
+  </a>
+</p>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
  
           
