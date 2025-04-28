@@ -42,7 +42,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------
  ### Learning:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" alt="Web Skills" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,react" alt="Web Skills" />
 </p>
 
  
