@@ -1,7 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=992&color=804D15&width=435&lines=Hi%2C+It's+Thay!!+;Welcome+to+my+profile." alt="Typing SVG" /></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------- 
-Nasci na cidade de Fortaleza - CE. Tenho 18 anos de idade, sou Técnica em Informática, formada pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - Campus Fortaleza. Gosto de ver série, ler e pintar no meu tempo livre.🏀🎧📖🎨
+ <ul>
+  <li>Nasci na cidade de <strong>Fortaleza - CE</strong>.</li>
+  <li>Tenho <strong>18 anos</strong>.</li>
+  <li>Sou <strong>Técnica em Informática</strong>, pelo <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong>.</li>
+  <li>Atualmente, estou cursando <strong>Bacharelado em Sistemas e Mídias Digitais</strong> na <strong>Universidade Federal do Ceará (UFC)</strong>.</li>
+  <li>No meu tempo livre, gosto de jogar basquete, pintar e conhecer novos lugares.🎨🏀</li>
+</ul>
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------          
 
@@ -18,22 +25,26 @@ Nasci na cidade de Fortaleza - CE. Tenho 18 anos de idade, sou Técnica em Infor
 --------------------------------------------------------------------------------------------------------------------------------------------------------
   
  ### Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thaynaxt)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayna.silva63@aluno.ifce.edu.br)
 
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,gmail,linkedin,twitter" />
+  <a href="https://www.instagram.com/thaynaxt" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:thaynaalbano1@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/thaynaalbano" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
  ### Learning:
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,flutter,mongodb">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite, alt="My Skills">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" alt="Web Skills" />
 </p>
+
  
 ### Tools:
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
