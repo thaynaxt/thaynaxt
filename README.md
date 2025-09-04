@@ -3,10 +3,10 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------- 
  <ul>
   <li>Nasci na cidade de <strong>Fortaleza - CE</strong>.</li>
-  <li>Tenho <strong>18 anos</strong>.</li>
+  <li>Tenho <strong>19 anos</strong>.</li>
   <li>Sou <strong>Técnica em Informática</strong>, pelo <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong>.</li>
   <li>Atualmente, estou cursando <strong>Bacharelado em Sistemas e Mídias Digitais</strong> na <strong>Universidade Federal do Ceará (UFC)</strong>.</li>
-   <li>Também curso o Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>pela <strong>Universidade de Fortaleza(Unifor)</strong>.</li>
+   <li>Também faço <strong> Análise e Desenvolvimento de Sistemas</strong> pela <strong>Universidade de Fortaleza (Unifor)</strong>.</li>
   <li>No meu tempo livre, gosto de jogar basquete, pintar e conhecer novos lugares.🎨🏀</li>
 </ul>
 
